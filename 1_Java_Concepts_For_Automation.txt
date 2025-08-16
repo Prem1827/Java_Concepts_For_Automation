@@ -1,0 +1,12 @@
+1. Project, Packages, Class
+2. Primitive Datatypes, Wrapper Classes
+3. Methods(Functions), Constructors(Special Functions)
+4. Return Types
+5. Conditional Statements, Looping
+6. Static Concepts
+7. Inheritance(Access Modifiers)
+8. Abstraction(Interface & Abstract Class)
+9. Polymorphism(Overloading & Overriding)
+10. String, String Buffer & String Builder
+11. Exception Handling(Important Concept)
+12. Java Collection Framework(List, Set & Map)
