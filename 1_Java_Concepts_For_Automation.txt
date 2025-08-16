@@ -10,3 +10,4 @@
 10. String, String Buffer & String Builder
 11. Exception Handling(Important Concept)
 12. Java Collection Framework(List, Set & Map)
+13. Array
