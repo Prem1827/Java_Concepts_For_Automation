@@ -2,7 +2,7 @@
 2. Primitive Datatypes, Wrapper Classes
 3. Methods(Functions), Constructors(Special Functions)
 4. Return Types
-5. Conditional Statements, Looping
+5. Conditional Statements
 6. Static Concepts
 7. Inheritance(Access Modifiers)
 8. Abstraction(Interface & Abstract Class)
@@ -12,3 +12,4 @@
 12. Java Collection Framework(List, Set & Map)
 13. Array
 14. Encapsulation
+15. Looping
